@@ -1,4 +1,7 @@
 Contribute
 ==========
 
-How to contribute to this project.
+
+Pull Request
+------------
+
